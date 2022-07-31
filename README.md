@@ -8,4 +8,4 @@ You can also have a look at the examples: https://github.com/avthart/docker-cons
 
 
 Sanity Test 3#1
-1
+12
