@@ -7,4 +7,4 @@ https://github.com/hashicorp/consul-template
 You can also have a look at the examples: https://github.com/avthart/docker-consul-template/blob/master/examples/examples.md
 
 
-Sanity Test 2
+Sanity Test 1
