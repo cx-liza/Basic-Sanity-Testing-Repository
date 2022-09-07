@@ -8,5 +8,3 @@ You can also have a look at the examples: https://github.com/avthart/docker-cons
 
 
 Sanity Test 49
-
-This reposetory can be used for Testing.
