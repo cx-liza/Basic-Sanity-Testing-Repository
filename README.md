@@ -7,6 +7,5 @@ https://github.com/hashicorp/consul-template
 You can also have a look at the examples: https://github.com/avthart/docker-consul-template/blob/master/examples/examples.md
 
 
-Sanity Test 66
-
+Sanity Test -x-
 This reposetory can be used for Testing.
